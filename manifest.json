@@ -10,8 +10,8 @@
 					{ 
 						"location": "codeEditorToolbar", 
 						"tips": "JSMin : Make your code smaller for faster execution and obfuscation",
-						"actionName": "minify"
-						"icon": "JSMin.png",
+						"actionName": "minify",
+						"icon": "JSMin.png"
 					},
 					{ 
 						"location": "solutionExplorerTreeViewContextMenu", 
